@@ -81,7 +81,7 @@ bash ./neocat.sh --backup
 
 Themes
 --
-<a href="https://m3tozz-reborn.github.io/NeoCat-Themes/">https://m3tozz.github.io/NeoCat-Themes/</a>
+<a href="https://m3tozz-reborn.github.io/NeoCat-Themes/">https://m3tozz-reborn.github.io/NeoCat-Themes/</a>
 <details>
 <summary>How can I add my own neofetch configuration to the neocat community?</summary>
  Fork <a href="https://github.com/m3tozz/neocat-community-themes">this repo</a>, add your theme, and submit a pull request.<br>
